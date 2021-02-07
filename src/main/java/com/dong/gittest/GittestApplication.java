@@ -12,6 +12,7 @@ public class GittestApplication {
         System.out.println("第一行");
         System.out.println("我在哪");
         System.out.println("我是主干");
+        System.out.println("我是分支");
     }
 
 }
