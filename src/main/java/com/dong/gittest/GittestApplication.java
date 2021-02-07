@@ -10,6 +10,8 @@ public class GittestApplication {
         SpringApplication.run(GittestApplication.class, args);
         System.out.println("我是git");
         System.out.println("第一行");
+        System.out.println("我在哪");
+        System.out.println("我是主干");
     }
 
 }
